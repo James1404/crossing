@@ -1,0 +1,3 @@
+fn square n = * n n;
+
+fn main = square 5;
